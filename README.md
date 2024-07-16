@@ -16,7 +16,9 @@ The dataset, named "Daily Female Births," includes the number of daily female bi
 **Data Preparation**
 
 **Features Extraction:** Extracted relevant features from the date column, such as the day of the week and month.
+
 **Handling Missing Values and Outliers:** Ensured data integrity by addressing missing values and outliers.
+
 **Normalization/Standardization:** Applied normalization or standardization where necessary.
 
 **Methodology**
